@@ -1,0 +1,1 @@
+Esse é um arquivo criado em Node.js!, Meu nome é Ricardo :)
